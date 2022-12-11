@@ -2,7 +2,7 @@
 
 What the final directory should look like. 
 
-Folders or files that are missing and/or is incomplete should be considered pending.
+Folders or files that are missing and/or incomplete should be considered pending.
 
 ```text
 THREEJS
